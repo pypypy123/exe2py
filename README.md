@@ -1,4 +1,4 @@
-EXE2PY 成功解密
+# EXE2PY 成功解密
 # PyInstaller Extractor
 
 PyInstaller Extractor is a Python script to extract the contents of a PyInstaller generated executable file.
